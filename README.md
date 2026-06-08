@@ -72,7 +72,7 @@ M.Sc. Computer Science | Educator-in-the-Making | Research & Development Enthusi
 > **“Teaching is not just sharing knowledge, it is shaping minds.”**
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://sankalpa-portfollio.vercel.app/
+- 🌐 Portfolio: https://codewithsankalpa.vercel.app/
 - 💼 LinkedIn: www.linkedin.com/in/sankalpa-sovan-samal-a9b8a2243
 - 📧 Email: sankalpasovansamal@gmail.com
 
